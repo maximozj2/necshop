@@ -49,10 +49,13 @@
             <div class="col-sm-4 offset-md-1 py-4">
               <h4 class="text-white">NecShop</h4>
               <ul class="list-unstyled">
-                <li><a href="index.html" class="text-white">Home</a></li>
+                <li><a href="../index.html" class="text-white">Home</a></li>
+                <br>
                 <li><a href="Eletrodomesticos.php" class="text-white">Eletrodomésticos</a></li>
                 <li><a href="Computadores.php" class="text-white">Computadores</a></li>
                 <li><a href="Tecnologia-variaveis.php" class="text-white">Tecnologias variáveis</a></li>
+                <br>
+                <li><a href="politica.html" class="text-white">Politicas de privacidade</a></li>
               </ul>
             </div>
           </div>
