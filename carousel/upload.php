@@ -45,5 +45,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       echo "Desculpe, houve um erro ao enviar o arquivo.";
     }
   }
+$imagem = $_POST['imagem'];
+$nome = $_POST['nome'];
+$preco = $_POST['preco'];
+
+$sql = "INSERT INTO eletrodomesticos (imagem, nome, preco) VALUES ('$imagem', '$nome', '$preco')";
+$conn->query($sql);
+
+header("location: Eletrodomesticos.php");
 }
 ?>
