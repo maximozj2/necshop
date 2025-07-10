@@ -56,6 +56,7 @@
                 <li><a href="Tecnologia-variaveis.php" class="text-white">Tecnologias variáveis</a></li>
                 <br>
                 <li><a href="politica.html" class="text-white">Politicas de privacidade</a></li>
+                <li><a href="resumo.html" class="text-white">Sobre a Empresa</a></li>
               </ul>
             </div>
           </div>
