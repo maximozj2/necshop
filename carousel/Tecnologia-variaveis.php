@@ -90,7 +90,7 @@
           <button type="submit">Cadastrar</button>
       </form>
       <hr>
-      <table border="1">
+      <table border="1" class="table table-dark table-striped">
         <tr><th>ID</th><th>Imagem</th><th>Nome</th><th>Preço</th></tr>
         <?php
         $sql = "SELECT * FROM tecnologias_variaveis";

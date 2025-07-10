@@ -90,7 +90,7 @@
           <button type="submit">Cadastrar</button>
       </form>
       <hr>
-      <table border="1">
+      <table border="1" class="table table-dark table-striped">
         <tr><h6><th>ID</th><th>Imagem</th><th>Nome</th><th>Preço</th></h6></tr>
         <?php
         $sql = "SELECT * FROM eletrodomesticos";
